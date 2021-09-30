@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OP41rkoYoEfB/3Uch1/u1JWp/5jQR+aZ0xZQiOBqQc9ZIz40EhUujYrOxHTnenHRhSmnekmO48sqtKUTbV+NqA==",
+  "dgSpecHash": "khv0L3JdcwMmEvQZ8/HHzs/Z6Rx84BAqktGLz5piLMi7LYR9I8tN9Ppafa565DZ5M0/jFWTjqFjqXf7LEiFM0A==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\RPA\\UiPath\\CalculateClientSecurityHash\\.local\\",
+  "projectFilePath": "E:\\Projects\\RPA\\UiPath\\RPA_DeveloperAdvanced\\Project1 - CalculateClientSecurityHash\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\aforge.imaging\\2.2.5\\aforge.imaging.2.2.5.nupkg.sha512",

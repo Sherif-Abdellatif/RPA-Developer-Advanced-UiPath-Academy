@@ -25,6 +25,37 @@
     },
     {
       "Package": {
+        "Id": "UiPath.Mail.Activities",
+        "Version": "1.10.4"
+      },
+      "Assemblies": [
+        "C:\\Users\\hp\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.PlatformServices.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\google.apis.calendar.v3/1.43.0.1872\\lib/net45/Google.Apis.Calendar.v3.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\google.apis.core/1.43.0\\lib/net45/Google.Apis.Core.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\google.apis.gmail.v1/1.43.0.1859\\lib/net45/Google.Apis.Gmail.v1.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\google.apis.peopleservice.v1/1.43.0.1876\\lib/net45/Google.Apis.PeopleService.v1.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\mailkit/2.10.0\\lib/net46/MailKit.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.filesystemglobbing/5.0.0\\lib/net461/Microsoft.Extensions.FileSystemGlobbing.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\microsoft.identity.client/4.14.0\\lib/net45/Microsoft.Identity.Client.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\mimekit/2.10.0\\lib/net46/MimeKit.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\portable.bouncycastle/1.8.8\\lib/net40/BouncyCastle.Crypto.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\system.buffers/4.5.1\\lib/net461/System.Buffers.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\uipath.mail.activities/1.10.4\\lib/net461/UiPath.Mail.Activities.Design.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\uipath.mail.activities/1.10.4\\lib/net461/UiPath.Mail.Activities.Package.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\uipath.mail.activities/1.10.4\\lib/net461/UiPath.Mail.Activities.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\uipath.mail.activities/1.10.4\\lib/net461/UiPath.Mail.dll"
+      ],
+      "Path": "C:\\Users\\hp\\.nuget\\packages\\uipath.mail.activities\\1.10.4"
+    },
+    {
+      "Package": {
         "Id": "UiPath.System.Activities",
         "Version": "21.2.1-preview"
       },
@@ -113,37 +144,6 @@
         "C:\\Users\\hp\\.nuget\\packages\\uipath.vision/3.0.0-preview\\lib/net461/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\hp\\.nuget\\packages\\uipath.uiautomation.activities\\21.2.0-preview"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.Mail.Activities",
-        "Version": "1.10.4"
-      },
-      "Assemblies": [
-        "C:\\Users\\hp\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.PlatformServices.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.PlatformServices.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\google.apis.calendar.v3/1.43.0.1872\\lib/net45/Google.Apis.Calendar.v3.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\google.apis.core/1.43.0\\lib/net45/Google.Apis.Core.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\google.apis.gmail.v1/1.43.0.1859\\lib/net45/Google.Apis.Gmail.v1.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\google.apis.peopleservice.v1/1.43.0.1876\\lib/net45/Google.Apis.PeopleService.v1.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\mailkit/2.10.0\\lib/net46/MailKit.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\microsoft.exchange.webservices/2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.filesystemglobbing/5.0.0\\lib/net461/Microsoft.Extensions.FileSystemGlobbing.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\microsoft.identity.client/4.14.0\\lib/net45/Microsoft.Identity.Client.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\mimekit/2.10.0\\lib/net46/MimeKit.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\portable.bouncycastle/1.8.8\\lib/net40/BouncyCastle.Crypto.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\system.buffers/4.5.1\\lib/net461/System.Buffers.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\uipath.mail.activities/1.10.4\\lib/net461/UiPath.Mail.Activities.Design.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\uipath.mail.activities/1.10.4\\lib/net461/UiPath.Mail.Activities.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\uipath.mail.activities/1.10.4\\lib/net461/UiPath.Mail.Activities.Package.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\uipath.mail.activities/1.10.4\\lib/net461/UiPath.Mail.dll"
-      ],
-      "Path": "C:\\Users\\hp\\.nuget\\packages\\uipath.mail.activities\\1.10.4"
     }
   ],
   "Conflicts": [],
@@ -1095,8 +1095,8 @@
         "Version": "1.43.0"
       },
       "Assemblies": [
-        "C:\\Users\\hp\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.PlatformServices.dll"
+        "C:\\Users\\hp\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.PlatformServices.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.dll"
       ],
       "Path": "C:\\Users\\hp\\.nuget\\packages\\google.apis\\1.43.0"
     },
@@ -1106,8 +1106,8 @@
         "Version": "1.43.0"
       },
       "Assemblies": [
-        "C:\\Users\\hp\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.PlatformServices.dll"
+        "C:\\Users\\hp\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.dll"
       ],
       "Path": "C:\\Users\\hp\\.nuget\\packages\\google.apis.auth\\1.43.0"
     },
@@ -1665,8 +1665,8 @@
       },
       "Assemblies": [
         "C:\\Users\\hp\\.nuget\\packages\\uipath.mail.activities\\1.10.4\\lib\\net461\\UiPath.Mail.Activities.Design.dll",
-        "C:\\Users\\hp\\.nuget\\packages\\uipath.mail.activities\\1.10.4\\lib\\net461\\UiPath.Mail.Activities.dll",
         "C:\\Users\\hp\\.nuget\\packages\\uipath.mail.activities\\1.10.4\\lib\\net461\\UiPath.Mail.Activities.Package.dll",
+        "C:\\Users\\hp\\.nuget\\packages\\uipath.mail.activities\\1.10.4\\lib\\net461\\UiPath.Mail.Activities.dll",
         "C:\\Users\\hp\\.nuget\\packages\\uipath.mail.activities\\1.10.4\\lib\\net461\\UiPath.Mail.dll"
       ],
       "Path": "C:\\Users\\hp\\.nuget\\packages\\uipath.mail.activities\\1.10.4"

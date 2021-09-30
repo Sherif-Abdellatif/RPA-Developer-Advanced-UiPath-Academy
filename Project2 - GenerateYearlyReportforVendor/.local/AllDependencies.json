@@ -5271,9 +5271,9 @@
     "restore": {
       "projectUniqueName": "GenerateYearlyReportforVendor",
       "projectName": "GenerateYearlyReportforVendor",
-      "projectPath": "E:\\Projects\\RPA\\UiPath\\GenerateYearlyReportforVendor\\.local",
+      "projectPath": "E:\\Projects\\RPA\\UiPath\\RPA_DeveloperAdvanced\\Project2 - GenerateYearlyReportforVendor\\.local",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\RPA\\UiPath\\GenerateYearlyReportforVendor\\.local"
+      "outputPath": "E:\\Projects\\RPA\\UiPath\\RPA_DeveloperAdvanced\\Project2 - GenerateYearlyReportforVendor\\.local"
     },
     "frameworks": {
       "net461": {
