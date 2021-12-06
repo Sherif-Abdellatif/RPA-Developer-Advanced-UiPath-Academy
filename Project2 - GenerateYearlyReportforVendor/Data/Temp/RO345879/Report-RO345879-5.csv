@@ -1,0 +1,3 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+320628,"IT Support",295992,59198.4,355190,USD,2017-05-06
+183247,"Various paper supplies",116858,23371.6,140230,CAD,2017-05-07
